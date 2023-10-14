@@ -1,0 +1,32 @@
+msgid "msd_lite"
+msgstr "MSD_Lite"
+
+msgid "msd_lite is a UDP-to-HTTP multicast traffic relay daemon, here you can configure the settings."
+msgstr "Multi Stream Daemon(MSD) Lite是一个轻量版的多播转发程序，代替UDPXY将IPTV流转换为内网的HTTP协议服务器"
+
+msgid "Enabled"
+msgstr "启用"
+
+msgid "Port"
+msgstr "监听端口"
+
+msgid "Source Interface"
+msgstr "源端口"
+
+msgid "Max CPU threads"
+msgstr "最大CPU线程数"
+
+msgid "0 = auto"
+msgstr "0 = 自动"
+
+msgid "Log file"
+msgstr "日志文件"
+
+msgid "running"
+msgstr "已启动"
+
+msgid "stoped"
+msgstr "已停止"
+
+msgid "Collecting data..."
+msgstr "加载数据中..."
